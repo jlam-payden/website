@@ -1,16 +1,1 @@
-test
-updated locally
-
-First update in Staging t1.txt
-Second update in Staging t1.txt
-third update in Staging t1.txt
-fourth update 
-fifth update
-Sixth update
-seventh update
-8th update
-9th update
-Add t2.txt
-Update from remote main
-New from main only
-New from main remote
+first update from main remote
