@@ -1,3 +1,4 @@
 started
 John's change
+John's second change
 other text
